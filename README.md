@@ -1,4 +1,4 @@
-<img width="764" height="892" alt="Screenshot 2026-01-30 094553" src="https://github.com/user-attachments/assets/0d6a8c69-1bcc-4ae5-a8ff-a75e21ec4e65" /># InformationGathering
+# InformationGathering
 Information Gathering Techiques
 
 # To perform information gathering techniques
